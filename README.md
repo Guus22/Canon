@@ -24,9 +24,7 @@ Many taxi markets that were first heavily regulated, later faced deregulations. 
   
 These problems can lead to regulatory capture, in which the regulation favours the interests of the regulated industry above the interests of its consumers.  
   
-As shown, the taxi industry is heavily regulated. Additional information on regulation in the taxi industry can be found [here](http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page1).  
-  
-Regulated industries sometimes face the competition of new entrants in spite of heavy regulations, as is the case in the taxi industry. Uber challenges the regulations in the taxi industry and it potentially changes the entire structure of the industry. The next section will discuss the rise and the implications of the entrance of Uber in detail.  
+As shown, the taxi industry is heavily regulated. Additional information on regulation in the taxi industry can be found [here](http://www.keepeek.com/Digital-Asset-Management/oecd/transport/de-regulation-of-the-taxi-industry_9789282101155-en#page1). Regulated industries sometimes face the competition of new entrants in spite of heavy regulations, as is the case in the taxi industry. Uber challenges the regulations in the taxi industry and it potentially changes the entire structure of the industry. The next section will discuss the rise and the implications of the entrance of Uber in detail.  
   
 
 
